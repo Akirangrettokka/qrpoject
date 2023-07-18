@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.3"
+  },
+  "name": "seven",
+  "version": "1.0.0",
+  "main": "seven.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr"
+  ],
+  "author": "lavrr",
+  "license": "ISC",
+  "description": ""
+}
